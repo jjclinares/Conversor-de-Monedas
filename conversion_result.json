@@ -1,0 +1,51 @@
+[
+  {
+    "moneda_destino": "EUR",
+    "valor_a_convertir": 100000.0,
+    "monto_convertido": 21.21,
+    "moneda_de_origen": "COP",
+    "tasa_cambio": 2.121E-4
+  },
+  {
+    "moneda_destino": "COP",
+    "valor_a_convertir": 400.0,
+    "monto_convertido": 2266415.3600000003,
+    "moneda_de_origen": "GBP",
+    "tasa_cambio": 5666.0384
+  },
+  {
+    "moneda_destino": "COP",
+    "valor_a_convertir": 1850.0,
+    "monto_convertido": 1.053072244E7,
+    "moneda_de_origen": "GBP",
+    "tasa_cambio": 5692.2824
+  },
+  {
+    "moneda_destino": "COP",
+    "valor_a_convertir": 1850.0,
+    "monto_convertido": 8772984.715,
+    "moneda_de_origen": "EUR",
+    "tasa_cambio": 4742.1539
+  },
+  {
+    "moneda_destino": "COP",
+    "valor_a_convertir": 1100.0,
+    "monto_convertido": 4835078.930000001,
+    "moneda_de_origen": "USD",
+    "tasa_cambio": 4395.5263
+  },
+  {
+    "moneda_destino": "COP",
+    "valor_a_convertir": 1000.0,
+    "monto_convertido": 4395526.300000001,
+    "moneda_de_origen": "USD",
+    "tasa_cambio": 4395.5263
+  },
+  {
+    "moneda_destino": "COP",
+    "valor_a_convertir": 440.0,
+    "monto_convertido": 2086547.716,
+    "moneda_de_origen": "EUR",
+    "tasa_cambio": 4742.1539
+  }
+]
