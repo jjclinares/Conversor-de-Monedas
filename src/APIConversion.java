@@ -10,7 +10,7 @@ import java.util.Map;
 public class APIConversion {
 
     public static void apiConversion(String currency1, String currency2, float amountToChange) throws IOException, InterruptedException {
-        String apiKey = "c6f1c496455ea49040829f32";
+        String apiKey = ${API_KEY};
         HttpClient client = HttpClient.newHttpClient();
 
         // Solicitud API
